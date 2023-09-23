@@ -14,3 +14,7 @@ das Exportieren vom Model
 
 # code_rf-Datei
 diese Datei enthält die den Code für RF in JS.
+
+# link zur App:
+
+https://62p24l.csb.app/
